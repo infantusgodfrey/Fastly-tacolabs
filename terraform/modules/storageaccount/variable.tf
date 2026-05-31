@@ -1,0 +1,12 @@
+variable "rsgrp" {}
+variable "region" {}
+variable "storageaccountname" {}
+variable "replication_type" {}
+variable "accountkind" {}
+variable "accesstier" {}
+variable "html_error_page" {}
+variable "index_document" {}
+variable "storageversioning" {}
+variable "containerdataretention" {}
+variable "blobdataretention" {}
+variable "corsrules" {}
